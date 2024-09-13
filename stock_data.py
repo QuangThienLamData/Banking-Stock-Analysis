@@ -21,7 +21,6 @@ def extract_financial_statement(company):
         cf = stock.finance.cash_flow(period='quarter', lang = 'en')
         ratio = stock.finance.ratio(period='quarter')
         ratio.columns = ratio.columns.get_level_values(1)
-        ratio['Type'] = 'Financial Ratio'
         df = pd.concat([bs, ic.iloc[:, 3:], cf.iloc[:, 3:], ratio.iloc[:, 3:]], axis=1)
         df.loc[:, ~df.columns.duplicated(keep='first')]
         df_stock = pd.concat([df_stock, df], ignore_index=True)
