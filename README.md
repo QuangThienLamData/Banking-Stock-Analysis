@@ -11,4 +11,4 @@ VCB is the most secure banking stock to invest in. This stock have extremyly hig
 # STB
 ![image](https://github.com/user-attachments/assets/13dcda79-8fdc-49c8-9c65-3340af7cda0b)
 ![image](https://github.com/user-attachments/assets/eae1bd3b-f1b5-4a81-896c-0a2e9e2e9d9c)
-STB presents a compelling investment opportunity at this time. With its attractive low valuation combined with strong earnings potential, it offers substantial returns for investors.
+STB presents a compelling investment opportunity at this time. With its attractive low valuation (in the top 5 lowest P/CF, P/E, P/S) combined with strong earnings potential (top 2 highest EPS and BVPS), it offers substantial returns for investors.
